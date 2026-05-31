@@ -1,0 +1,124 @@
+{
+  "cards": [
+    {
+      "id": "card_001",
+      "name": "Virat Kohli",
+      "role": "Batter",
+      "team": "RCB",
+      "stats": {
+        "runsScored": 7000,
+        "wickets": 0,
+        "matches": 250,
+        "average": 37.5,
+        "strikeRate": 132.1
+      },
+      "vizagBonus": 1.15,
+      "imageUrl": "https://via.placeholder.com/300x400?text=Virat+Kohli"
+    },
+    {
+      "id": "card_002",
+      "name": "Rashid Khan",
+      "role": "Bowler",
+      "team": "SRH",
+      "stats": {
+        "runsScored": 500,
+        "wickets": 180,
+        "matches": 95,
+        "average": 22.5,
+        "strikeRate": 96.2
+      },
+      "vizagBonus": 1.35,
+      "imageUrl": "https://via.placeholder.com/300x400?text=Rashid+Khan"
+    },
+    {
+      "id": "card_003",
+      "name": "MS Dhoni",
+      "role": "Wicket-Keeper",
+      "team": "CSK",
+      "stats": {
+        "runsScored": 6000,
+        "wickets": 0,
+        "matches": 240,
+        "average": 40.5,
+        "strikeRate": 125.8
+      },
+      "vizagBonus": 1.25,
+      "imageUrl": "https://via.placeholder.com/300x400?text=MS+Dhoni"
+    },
+    {
+      "id": "card_004",
+      "name": "Jasprit Bumrah",
+      "role": "Bowler",
+      "team": "MI",
+      "stats": {
+        "runsScored": 200,
+        "wickets": 170,
+        "matches": 120,
+        "average": 18.2,
+        "strikeRate": 85.5
+      },
+      "vizagBonus": 1.40,
+      "imageUrl": "https://via.placeholder.com/300x400?text=Jasprit+Bumrah"
+    },
+    {
+      "id": "card_005",
+      "name": "Rohit Sharma",
+      "role": "Batter",
+      "team": "MI",
+      "stats": {
+        "runsScored": 6500,
+        "wickets": 0,
+        "matches": 238,
+        "average": 32.1,
+        "strikeRate": 129.5
+      },
+      "vizagBonus": 1.22,
+      "imageUrl": "https://via.placeholder.com/300x400?text=Rohit+Sharma"
+    },
+    {
+      "id": "card_006",
+      "name": "Suryakumar Yadav",
+      "role": "Batter",
+      "team": "MI",
+      "stats": {
+        "runsScored": 4200,
+        "wickets": 0,
+        "matches": 145,
+        "average": 35.8,
+        "strikeRate": 138.2
+      },
+      "vizagBonus": 1.18,
+      "imageUrl": "https://via.placeholder.com/300x400?text=Suryakumar+Yadav"
+    },
+    {
+      "id": "card_007",
+      "name": "Yuzvendra Chahal",
+      "role": "Bowler",
+      "team": "RR",
+      "stats": {
+        "runsScored": 150,
+        "wickets": 195,
+        "matches": 160,
+        "average": 21.3,
+        "strikeRate": 94.1
+      },
+      "vizagBonus": 1.30,
+      "imageUrl": "https://via.placeholder.com/300x400?text=Yuzvendra+Chahal"
+    },
+    {
+      "id": "card_008",
+      "name": "Rishabh Pant",
+      "role": "Wicket-Keeper",
+      "team": "DC",
+      "stats": {
+        "runsScored": 3800,
+        "wickets": 0,
+        "matches": 120,
+        "average": 31.7,
+        "strikeRate": 142.5
+      },
+      "vizagBonus": 1.20,
+      "imageUrl": "https://via.placeholder.com/300x400?text=Rishabh+Pant"
+    }
+  ]
+}
