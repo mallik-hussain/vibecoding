@@ -1,0 +1,28 @@
+{
+  "name": "ipl-top-trumps",
+  "version": "1.0.0",
+  "description": "IPL Top Trumps 2026 - Interactive card game with real-world stats",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "scrape": "node backend/agent1_stat_scraper/scraper.js",
+    "generate-cards": "node backend/agent2_visual_design/generator.js",
+    "test": "jest"
+  },
+  "keywords": ["IPL", "Top Trumps", "Card Game", "Sports"],
+  "author": "Team 7, Team 13, Team 9",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.0",
+    "axios": "^1.6.0",
+    "@google/generative-ai": "^0.11.0",
+    "dotenv": "^16.0.0",
+    "qrcode": "^1.5.0",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0",
+    "jest": "^29.0.0"
+  }
+}
